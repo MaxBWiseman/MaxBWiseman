@@ -1,7 +1,7 @@
 <div align="center"><h1>👋Welcome to my GitHub Page!👋</h1></div>
 
 
-![alt text](githubimgprofile.png)
+![alt text](githubimgprofile2.png)
 
 ## About Me✨
 
