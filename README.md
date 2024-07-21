@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](aibanner.png)
 
 # 👋Welcome to my GitHub Page!👋
 
