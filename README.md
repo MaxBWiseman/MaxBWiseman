@@ -1,6 +1,6 @@
-![alt text](githubimgprofile.png)
-
 # 👋Welcome to my GitHub Page!👋
+
+![alt text](githubimgprofile.png)
 
 ## About Me✨
 
@@ -17,3 +17,6 @@ My journey in the tech industry is just beginning, and I'm eager to learn and gr
 I'm always looking to connect with fellow tech enthusiasts and professionals. If you're interested in chatting about technology, software development, or just want to say hi, feel free to reach out!
 
 Thank you for visiting my profile. Let's explore the possibilities together!
+
+
+![alt text]()
