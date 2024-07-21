@@ -1,4 +1,4 @@
-![alt text](aibanner.png)
+![alt text](githubimgprofile.png)
 
 # 👋Welcome to my GitHub Page!👋
 
