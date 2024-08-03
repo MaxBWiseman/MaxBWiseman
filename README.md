@@ -17,7 +17,7 @@ My journey in the tech industry is just beginning, and I'm eager to learn and gr
 
 I'm always looking to connect with fellow tech enthusiasts and professionals. If you're interested in chatting about technology, software development, or just want to say hi, feel free to reach out!
 
-Reach me through my portfolio website here - https://maxbwiseman.github.io/ResumeProject/index.html
+Reach me through my portfolio website here - https://maxbwiseman.github.io/ResumeProject/
 
 Thank you for visiting my profile. Let's explore the possibilities together!
 
