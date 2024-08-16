@@ -5,8 +5,6 @@
 
 ## About Me✨
 
-<script src="https://gist.github.com/MaxBWiseman/d0629fc16836c27d8cd84f174d6ccc0f.js"></script>
-
 Hello! My name is Max, and I'm an aspiring Full Stack Software Developer currently studying at Code Institute. I've always been fascinated by both hardware and software, constantly driven by a curiosity to understand how things work. Growing up in the picturesque countryside of Devon, England, I've developed a keen interest in technology and its practical applications.
 
 I see myself as a practical individual who thrives in team settings. Collaboration and teamwork are key components of my work ethic, and I believe that together, we can achieve great things. Besides my passion for technology, I enjoy staying active and going to the gym. It's a great way for me to stay focused and energized.
