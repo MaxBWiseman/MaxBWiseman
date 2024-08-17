@@ -17,7 +17,8 @@ My journey in the tech industry is just beginning, and I'm eager to learn and gr
 
 I'm always looking to connect with fellow tech enthusiasts and professionals. If you're interested in chatting about technology, software development, or just want to say hi, feel free to reach out!
 
-Reach me through my portfolio website here - https://maxbwiseman.github.io/ResumeProject/
+Reach me through my portfolio website here - 
+[![Reach me through my website here!](https://github-readme-stats.vercel.app/api/pin/?username=MaxBWiseman&repo=ResumeProject)](https://github.com/anuraghazra/github-readme-stats)
 
 Thank you for visiting my profile. Let's explore the possibilities together!
 
@@ -28,3 +29,5 @@ Thank you for visiting my profile. Let's explore the possibilities together!
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxBWiseman&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1)](https://github.com/anuraghazra/github-readme-stats)
