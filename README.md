@@ -21,12 +21,12 @@ Reach me through my portfolio website here - https://maxbwiseman.github.io/Resum
 
 Thank you for visiting my profile. Let's explore the possibilities together!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxBWiseman&show icons=true&theme=radical, &show_icons=true)](https://github.com/MaxBWiseman/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxBWiseman&show icons=true&theme=radical,icons=true)](https://github.com/MaxBWiseman/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1)](https://github.com/MaxBWiseman/github-readme-stats)
 
 <a href="https://github.com/MaxBWiseman/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MaxBWiseman&show icons=true&theme=radical, &show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MaxBWiseman&show icons=true&theme=radical, icons=true" />
 </a>
 <a href="https://github.com/MaxBWiseman/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1" />
