@@ -14,7 +14,7 @@
 
 ## My Top Weekly Languages
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 ## About Me✨
 
@@ -35,16 +35,3 @@ I'm always looking to connect with fellow tech enthusiasts and professionals. If
 [![Reach me through my website here!](https://github-readme-stats.vercel.app/api/pin/?username=MaxBWiseman&repo=ResumeProject)](https://github.com/anuraghazra/github-readme-stats)
 
 Thank you for visiting my profile. Let's explore the possibilities together!
-
-## My Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MaxBWiseman" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxBWiseman&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-## My Top Weekly Languages
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1)](https://github.com/anuraghazra/github-readme-stats)
