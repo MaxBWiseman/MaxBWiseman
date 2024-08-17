@@ -21,16 +21,9 @@ Reach me through my portfolio website here - https://maxbwiseman.github.io/Resum
 
 Thank you for visiting my profile. Let's explore the possibilities together!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxBWiseman&show icons=true&theme=radical,icons=true)](https://github.com/MaxBWiseman/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1)](https://github.com/MaxBWiseman/github-readme-stats)
-
 <a href="https://github.com/MaxBWiseman/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MaxBWiseman&show icons=true&theme=radical, icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxBWiseman&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/MaxBWiseman/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1" />
+<a href="https://github.com/MaxBWiseman/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxBWiseman&repo=convoychat" />
 </a>
-
-
-<div align="center">![alt text](editedcatcoder.png)</div>
