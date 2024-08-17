@@ -12,7 +12,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxBWiseman&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<div align="center"><h2>🧑‍💻My Top Weekly Languages🧑‍💻</h2></div>
+<h2>🧑‍💻My Top Weekly Languages🧑‍💻</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1" />
