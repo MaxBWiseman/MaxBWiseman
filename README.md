@@ -21,5 +21,7 @@ Reach me through my portfolio website here - https://maxbwiseman.github.io/Resum
 
 Thank you for visiting my profile. Let's explore the possibilities together!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxBWiseman)](https://github.com/MaxBWiseman/github-readme-stats)
+
 
 ![alt text](editedcatcoder.png)
