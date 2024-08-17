@@ -1,7 +1,7 @@
 <div align="center"><h1>👋Welcome to my GitHub Page!👋</h1></div>
 
 
-<img width="100%" align="center" src="synthwave.jpg">
+<img width="100%" height="100" align="center" src="synthwave.jpg">
 
 <div align="center"><h2>📈My Stats📈</h2></div>
 
