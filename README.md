@@ -15,7 +15,7 @@
 ## My Top Weekly Languages
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1" />
 </a>
 
 ## About Me✨
