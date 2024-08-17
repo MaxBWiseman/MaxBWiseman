@@ -14,7 +14,9 @@
 
 ## My Top Weekly Languages
 
-<div align="center">[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1)](https://github.com/anuraghazra/github-readme-stats)</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1" />
+</a>
 
 ## About Me✨
 
