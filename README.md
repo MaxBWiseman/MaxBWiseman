@@ -5,12 +5,20 @@
 
 <div align="center"><h2>📈My Stats📈</h2></div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MaxBWiseman" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxBWiseman&layout=compact&langs_count=8&card_width=320" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MaxBWiseman" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxBWiseman&layout=compact&langs_count=8&card_width=320" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center"><h2>🧑‍💻My Top Weekly Languages🧑‍💻</h2></div>
 
