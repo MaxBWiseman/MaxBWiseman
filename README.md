@@ -29,5 +29,6 @@ Thank you for visiting my profile. Let's explore the possibilities together!
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxBWiseman&layout=compact&langs_count=8&card_width=320" />
 </a>
-
+<br>
+## My Top Weekly Languages
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@d85da0fd-b442-4c33-98af-3ef622520fc1)](https://github.com/anuraghazra/github-readme-stats)
