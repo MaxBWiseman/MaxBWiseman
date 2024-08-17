@@ -17,7 +17,8 @@ My journey in the tech industry is just beginning, and I'm eager to learn and gr
 
 I'm always looking to connect with fellow tech enthusiasts and professionals. If you're interested in chatting about technology, software development, or just want to say hi, feel free to reach out!
 
-Reach me through my portfolio website here - 
+**Reach me through my portfolio website here -** 
+
 [![Reach me through my website here!](https://github-readme-stats.vercel.app/api/pin/?username=MaxBWiseman&repo=ResumeProject)](https://github.com/anuraghazra/github-readme-stats)
 
 Thank you for visiting my profile. Let's explore the possibilities together!
