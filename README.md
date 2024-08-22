@@ -44,6 +44,6 @@ I'm always looking to connect with fellow tech enthusiasts and professionals. If
 
 **Reach me through my portfolio website here -** 
 
-[![Reach me through my website here!](https://github-readme-stats.vercel.app/api/pin/?username=MaxBWiseman&repo=ResumeProject)](https://github.com/anuraghazra/github-readme-stats)
+[![Reach me through my website here!](https://github-readme-stats.vercel.app/api/pin/?username=MaxBWiseman&repo=ResumeProject)](https://maxbwiseman.github.io/ResumeProject/)
 
 Thank you for visiting my profile. Let's explore the possibilities together!
