@@ -8,12 +8,10 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MaxBWiseman&show_icons=true&theme=synthwave" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/convoychat">
         <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxBWiseman&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=synthwave" />
       </a>
     </td>
@@ -23,7 +21,6 @@
 <div align="center"><h2>🧑‍💻My Top Weekly Languages🧑‍💻</h2></div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GackedShotty&show_icons=true&theme=synthwave&hide_title=True" />
   </a>
 </div>
