@@ -31,6 +31,8 @@ Hello! My name is Max, and I'm an aspiring Full Stack Software Developer current
 
 I see myself as a pragmatic individual who thrives in team settings. Collaboration and teamwork are key components of my work ethic, and I believe that together, we can achieve great things. Besides my passion for technology, I enjoy staying active and going to the gym. It's a great way for me to stay focused and energized.
 
+Total coding time since Auguest 16, 2024 - [![wakatime](https://wakatime.com/badge/user/d85da0fd-b442-4c33-98af-3ef622520fc1.svg)](https://wakatime.com/@d85da0fd-b442-4c33-98af-3ef622520fc1)
+
 ## My Goals🌱
 
 My journey in the tech industry is just beginning, and I'm eager to learn and grow as a developer. I hope to work in the tech industry at a respected company someday, where I can contribute to meaningful projects and make a positive impact.
