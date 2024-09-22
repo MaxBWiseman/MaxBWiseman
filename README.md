@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-<div align="center"><h2>🧑‍💻My Top Fortnightly Languages🧑‍💻</h2></div>
+<div align="center"><h2>🧑‍💻My Top Languages - Since August 2024🧑‍💻</h2></div>
 
 <div align="center">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GackedShotty&show_icons=true&theme=synthwave&hide_title=True" />
