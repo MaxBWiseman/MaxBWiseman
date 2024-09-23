@@ -26,10 +26,10 @@
 <table>
   <tr>
     <td>
-      <figure><img height="400" align="center" src="https://wakatime.com/share/@GackedShotty/4fffd8d7-21ab-48ab-b91d-270b31cb02b3.svg"></img></figure>
+      <figure><img height="400" align="center" src="https://wakatime.com/share/@GackedShotty/e8011036-c075-49cd-9550-a22ab1c37f00.svg"></img></figure>
     </td>
     <td>
-      <figure><img height="400" align="center" src="https://wakatime.com/share/@GackedShotty/5c0cb52e-f7f2-471d-bc43-5b8b3bf54ebd.svg"></img></figure>
+      <figure><img height="400" align="center" src="https://wakatime.com/share/@GackedShotty/0771219d-8041-41a6-a4cc-ef3b8d64c43b.svg"></img></figure>
     </td>
   </tr>
 </table>
