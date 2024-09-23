@@ -19,7 +19,7 @@
       <figure><embed src="https://wakatime.com/share/@GackedShotty/5c0cb52e-f7f2-471d-bc43-5b8b3bf54ebd.svg"></embed></figure>
     </td>
     <td>
-      <figure><embed src="https://wakatime.com/share/@GackedShotty/db7a1416-b7e7-41e7-9760-9f9605f0ba05.svg"></embed></figure>
+      <figure><embed src="https://wakatime.com/share/@GackedShotty/5c0cb52e-f7f2-471d-bc43-5b8b3bf54ebd.svg"></embed></figure>
     </td>
   </tr>
 </table>
