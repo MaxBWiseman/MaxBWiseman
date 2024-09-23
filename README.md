@@ -8,21 +8,19 @@
 <table>
   <tr>
     <td>
-        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MaxBWiseman&show_icons=true&theme=synthwave" />
-      </a>
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MaxBWiseman&show_icons=true&theme=synthwave" />
     </td>
     <td>
-        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxBWiseman&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=synthwave" />
-      </a>
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxBWiseman&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=synthwave" />
     </td>
   </tr>
   <tr>
     <td>
-          <figure><embed src="https://wakatime.com/share/@GackedShotty/5c0cb52e-f7f2-471d-bc43-5b8b3bf54ebd.svg"></embed></figure>
-    </td
-      <td>
-        <figure><embed src="https://wakatime.com/share/@GackedShotty/db7a1416-b7e7-41e7-9760-9f9605f0ba05.svg"></embed></figure>
-      </td>
+      <figure><embed src="https://wakatime.com/share/@GackedShotty/5c0cb52e-f7f2-471d-bc43-5b8b3bf54ebd.svg"></embed></figure>
+    </td>
+    <td>
+      <figure><embed src="https://wakatime.com/share/@GackedShotty/db7a1416-b7e7-41e7-9760-9f9605f0ba05.svg"></embed></figure>
+    </td>
   </tr>
 </table>
 
