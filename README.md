@@ -14,14 +14,6 @@
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxBWiseman&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=synthwave" />
     </td>
   </tr>
-  <tr>
-    <td>
-      <figure><embed src="https://wakatime.com/share/@GackedShotty/5c0cb52e-f7f2-471d-bc43-5b8b3bf54ebd.svg"></embed></figure>
-    </td>
-    <td>
-      <figure><embed src="https://wakatime.com/share/@GackedShotty/5c0cb52e-f7f2-471d-bc43-5b8b3bf54ebd.svg"></embed></figure>
-    </td>
-  </tr>
 </table>
 
 <div align="center"><h2>🧑‍💻My Top Languages - Since August 2024🧑‍💻</h2></div>
@@ -30,6 +22,17 @@
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GackedShotty&show_icons=true&theme=synthwave&hide_title=True" />
   </a>
 </div>
+
+<table>
+  <tr>
+    <td>
+      <figure><img src="https://wakatime.com/share/@GackedShotty/5c0cb52e-f7f2-471d-bc43-5b8b3bf54ebd.svg"></img></figure>
+    </td>
+    <td>
+      <figure><img height="200" align="center" src="https://wakatime.com/share/@GackedShotty/5c0cb52e-f7f2-471d-bc43-5b8b3bf54ebd.svg"></img></figure>
+    </td>
+  </tr>
+</table>
 
 ## About Me✨
 
