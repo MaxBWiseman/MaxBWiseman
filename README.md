@@ -5,15 +5,8 @@
 
 <div align="center"><h2>📈My Stats📈</h2></div>
 
-<table>
-  <tr>
-    <td>
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MaxBWiseman&show_icons=true&theme=synthwave" />
-    </td>
-  </tr>
-</table>
-
-
+<div align="center"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MaxBWiseman&show_icons=true&theme=synthwave" /></div>
+ 
 <div align="center"><h2>🧑‍💻My Wakatimes🧑‍💻</h2></div>
 
 <table>
