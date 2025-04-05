@@ -29,11 +29,29 @@
 
 ## About Me✨
 
-A driven and curious individual with a passion for understanding the intricacies of both hardware and software. Growing up in the countryside of Devon, England, I developed a keen interest in technology and its applications. I am sociable by nature and thrive in collaborative team settings, believing that greater achievements are made together. In addition to my technical expertise, I enjoy staying active by going to the gym, which helps me stay focused and energized. My goal is to combine my technical skills and pragmatic mindset to pursue a fulfilling career in the tech industry.
+A driven and curious individual with a passion for understanding the intricacies of both hardware and software. Growing up in the countryside of Devon, England, I developed a keen interest in technology and its applications. I am sociable by nature and thrive in collaborative team settings, believing that greater achievements are made together. In addition to my technical ability, I enjoy staying active by going to the gym, which helps me stay focused and energized. This aligns perfectly with my work ethic. My goal is to combine my technical skills and pragmatic mindset to pursue a fulfilling career in the tech industry.
 
-Proficient Languages/Frameworks – HTML, CSS, JavaScript/jQuery, Python, SQL,  Django,  React
+- Proficient Languages/Frameworks: HTML5, CSS3, JavaScript/jQuery, Python, Django, React, Flask, MATLAB-Simulink, Bootstrap, Materialize
 
-Proficient Libraries for Python/Data Science – Scikit-Learn, TensorFlow, Feature-Engine, Pandas, NumPy,  SciPy,  Matplotlib.Pyplot,  Seaborn,  Plotly,  Pingouin,  Streamlit
+- Databases: MongoDB, MySQL, PostgreSQL, SQL, Psycopg2, SQLAlchemy	
+
+- Proficient Libraries for Python/Data Science: Scikit-Learn, TensorFlow, TensorFlow-Keras, Feature-Engine, Pandas, NumPy, SciPy, Matplotlib.pyplot, Seaborn, Plotly, Pingouin, Streamlit
+
+- Testing: Jest, UnitTest
+
+- Version Control: Git, GitHub, Heroku
+
+- Additional Skills: Agile, Design Thinking, UX Design
+
+#### Education
+
+- March 2025: Level 8 SCQF Diploma in Full-Stack Software Development, specializing in Predictive Analytics at Code Institute. Credit Rated by the University of the West of Scotland. Graded as Merit
+- 2016 – 2018: Southwest Metal Finishing Apprenticeship
+- 2011 – 2016: Exmouth Community College, Devon
+
+- GCSEs (Grades C): Maths, English Literature, English Language, Combined Science,
+                       Systems and Control
+
 
 Total coding time since August 16, 2024 - [![wakatime](https://wakatime.com/badge/user/d85da0fd-b442-4c33-98af-3ef622520fc1.svg)](https://wakatime.com/@d85da0fd-b442-4c33-98af-3ef622520fc1)
 
