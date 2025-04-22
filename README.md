@@ -22,11 +22,6 @@
 
 <hr>
 
-<div align="center">
-    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GackedShotty&show_icons=true&theme=synthwave&hide_title=True" />
-  </a>
-</div>
-
 ## About Me✨
 
 A driven and curious individual with a passion for understanding the intricacies of both hardware and software. Growing up in the countryside of Devon, England, I developed a keen interest in technology and its applications. I am sociable by nature and thrive in collaborative team settings, believing that greater achievements are made together. In addition to my technical ability, I enjoy staying active by going to the gym, which helps me stay focused and energized. This aligns perfectly with my work ethic. My goal is to combine my technical skills and pragmatic mindset to pursue a fulfilling career in the tech industry.
